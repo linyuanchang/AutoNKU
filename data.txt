@@ -1,0 +1,31 @@
+[Temperature]
+
+# 昨晚体温
+night = 36.5
+
+# 今早体温
+morning = 36.4
+
+# 中午体温
+noon = 36.6
+
+[Person]
+# 手机
+mobile = 13820912345
+
+# 家庭住址
+address = 从前有座庙
+
+[Dormitory]
+
+# 通风: 1 表示未通风， 2 表示通风一次， 3 表示通风两次及以上
+ventilation = 3
+
+# 消毒： 1 表示未消毒，2 表示已消毒
+disinfection = 2
+
+[Other]
+
+# 其他反馈情况，非必填
+feedback = 无
+
